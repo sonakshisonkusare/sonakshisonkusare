@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonakshi Sonkusare</h1>
-<h3 align="center">Hello! I'm an aspiring cloud computing enthusiast with a solid foundation in Linux and Windows operating systems, as well as computer networking basics. Currently, I am diving into the world of cloud computing, exploring its fundamentals, and building my skills in this exciting and rapidly evolving field.</h3>
+<h3 align="center">Hello! i am an engineering student from CSE Deoartment. I’m actively exploring various fields within software development, including web development. With a drive to learn and adapt, I aim to build a versatile career where I can apply my skills to solve real-world problems creatively and efficiently. </h3>
 
-- 🌱 I’m currently learning **Cloud Computing Basics**
+- 🌱 I’m currently working on the **water footprint** project.
 
 - 📫 How to reach me **sonakshisonkusare@gmail.com**
 - 
