@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonakshi Sonkusare</h1>
-<h3 align="center">Hello! i am an engineering student from CSE Deoartment. I’m actively exploring various fields within software development, including web development. With a drive to learn and adapt, I aim to build a versatile career where I can apply my skills to solve real-world problems creatively and efficiently. </h3>
+<h3 align="center">Hello! i am an engineering student from CSE Department. I’m actively exploring various fields within Data Analytics and AIML. With a drive to learn and adapt, I aim to build a versatile career where I can apply my skills to solve real-world problems creatively and efficiently. </h3>
 
-- 🌱 I’m currently working on the **water footprint** project.
+- 🌱 I’m currently working on the developing my skills in Power BI
 
 - 📫 How to reach me **sonakshisonkusare@gmail.com**
 - 
